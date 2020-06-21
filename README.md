@@ -1,6 +1,7 @@
 # Hardware_Software_Platforms_Servo
 
 This project is part of the course Hardware/Software Platforms at the polytechnic faculty of Mons. 
+
 The goal of this project is to control a servomotor with a DE1-SoC Board. It allows to learn the VHDL programming language and it allows to handle an entire electronical project.
  -> Group Members: Fattahi Idriss and Honorez Valentin
  -> Project title: Control of a servo-motor with a DE1-SoC.
