@@ -10,6 +10,9 @@ The goal of this project is to control a servomotor with a DE1-SoC Board. It all
  
 The software used to implement the project is "Quartus II".
 
+
+
+
 The main goal of the project is to be able to change the position of a servomotor by controlling the switches on the DE1-SoC board. There is a button available for the user on the board.
 
 To achieve that, there are 4 parts in our code:
