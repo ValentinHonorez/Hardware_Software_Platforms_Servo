@@ -12,15 +12,15 @@ The software used to implement the project is "Quartus II".
 
 The main goal of the project is to be able to change the position of a servomotor by controlling the switches on the DE1-SoC board. There is a button available for the user on the board.
 
-To achieve that, there are 4 parts in our code. 
+To achieve that, there are 4 parts in our code:
 
-The first one, called " clk64kHz.vhd", is the construction of the clock of 64kHz. 
+- The first one, called " clk64kHz.vhd", is the construction of the clock of 64kHz. 
 
-The second one, called "servo_pwm.vhd" is the code building the PWM signal to control the servomotor. 
+- The second one, called "servo_pwm.vhd" is the code building the PWM signal to control the servomotor. 
 
-The third one, called "servo_pwm_clk64kHz.vhd" assemble the clock and the pwm signal to control the servomotor. 
+- The third one, called "servo_pwm_clk64kHz.vhd" assemble the clock and the pwm signal to control the servomotor. 
 
-The last one, called  "servo-pwm-clk64kHz_PINS.vhd" that connects the signals with the pins of the board.
+- The last one, called  "servo-pwm-clk64kHz_PINS.vhd" that connects the signals with the pins of the board.
 
 The "DE1-SoC-Servo.zip" file countains the Altera project in it. 
 
