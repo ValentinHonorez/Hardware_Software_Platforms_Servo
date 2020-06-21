@@ -4,9 +4,9 @@ This project is part of the course Hardware/Software Platforms at the polytechni
 
 The goal of this project is to control a servomotor with a DE1-SoC Board. It allows to learn the VHDL programming language and it allows to handle an entire electronical project.
 
- -> Group Members: Fattahi Idriss and Honorez Valentin
+ - Group Members: Fattahi Idriss and Honorez Valentin
  
- -> Project title: Control of a servo-motor with a DE1-SoC.
+ - Project title: Control of a servo-motor with a DE1-SoC.
  
 The software used to implement the project is "Quartus II".
 
